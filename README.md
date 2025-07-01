@@ -1,6 +1,6 @@
 # Value-Guided Search
 
-This is the official codebase for the paper "Value-Guided Search for Efficient Chain-of-Thought Reasoning".
+This is the official codebase for the paper “[Value‑Guided Search for Efficient Chain‑of‑Thought Reasoning](https://arxiv.org/abs/2505.17373).”
 
 **Datasets.** We release the two datasets described in Section 2.2 of the paper.
 They are available on Hugging Face:
